@@ -41,4 +41,6 @@ No changes are required in existing classes.
 
  How to Run
 
-Run the Test class to start the application.
+Run the Test class to start the basic application.
+
+Run the Test2 class for the Reflection-based runtime version.
